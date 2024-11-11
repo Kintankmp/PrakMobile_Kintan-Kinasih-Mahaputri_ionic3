@@ -3,7 +3,7 @@
 Nama : Kintan Kinasih Mahaputri
 NIM : H1D022019
 Shift : A
-
+Penjelasan
 Pertama, buat database dan tabel mahasiswa di MySQL. Buatlah database dengan nama db_mhs. Setelah itu, di dalam database tersebut, buat tabel `mahasiswa` yang memiliki kolom-kolom seperti id, nama, dan jurusan, untuk menyimpan informasi mahasiswa.
 
 Selanjutnya, buat API dengan menggunakan PHP agar aplikasi dapat berinteraksi dengan database. File koneksi.php bertanggung jawab menyediakan koneksi ke database db_mhs. Untuk mengambil seluruh data mahasiswa, buat file tampil.php yang menampilkan data dalam format JSON. Untuk menambahkan data baru, buat file tambah.php. Jika ingin mengambil data berdasarkan id tertentu, gunakan lihat.php, sedangkan untuk menghapus data berdasarkan id, gunakan hapus.php. Untuk mengedit data mahasiswa yang sudah ada, buat file edit.php.
